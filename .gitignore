@@ -5,3 +5,5 @@ demo
 bower_components
 node_modules
 dist
+.idea/
+typings/
